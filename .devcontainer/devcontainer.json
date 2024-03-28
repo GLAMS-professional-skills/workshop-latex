@@ -1,4 +1,11 @@
 {
     "name": "latex",
-    "image": "docker.io/texlive/texlive"
+    "image": "docker.io/texlive/texlive",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "James-Yu.latex-workshop"
+            ]
+        }
+    }
 }
