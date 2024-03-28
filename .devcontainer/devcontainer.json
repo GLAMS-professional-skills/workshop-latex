@@ -1,0 +1,4 @@
+{
+    "name": "latex",
+    "image": "docker.io/texlive/texlive"
+}
